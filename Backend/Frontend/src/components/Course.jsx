@@ -25,9 +25,10 @@ function Course() {
             <span className="text-pink-500"> Here! :)</span>
           </h1>
           <p className="mt-12">
-           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequently, assumed? Repellent, that corrupt?
-            Time laudatory repellent accused accusantium but architect hates, unless expedited somewhat indeed does not know the debts of pain is
-            not spiny present assumed to be, perspiring, explained follow affectionate soul. To us, someone rejected are they who great follow!
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. So, did you assume? Is it off-putting, that corrupt? 
+            Sometimes, even when praised, people face accusations. The architect dislikes it unless it’s done quickly, 
+            but still doesn’t understand the pain involved. It’s not very uncomfortable,but it’s clear and followed with care.
+            To us, those who are rejected are the ones who truly follow with respect!
           </p>
           <Link to="/">
             <button className="mt-6 bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300">
