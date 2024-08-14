@@ -14,7 +14,7 @@ function Freebook() {
       try {
         const res = await axios.get("/book");
 
-        const data = res.data.filter((data) => data.category === "Free");
+        const data = res.data.filter((data) => data.category === "FREE");
         console.log(data);
         setBook(data);
       } catch (error) {
