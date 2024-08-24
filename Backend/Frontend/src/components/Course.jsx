@@ -25,10 +25,10 @@ function Course() {
             <span className="text-pink-500"> Here! :)</span>
           </h1>
           <p className="mt-12">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. So, did you assume? Is it off-putting, that corrupt? 
-            Sometimes, even when praised, people face accusations. The architect dislikes it unless it’s done quickly, 
-            but still doesn’t understand the pain involved. It’s not very uncomfortable,but it’s clear and followed with care.
-            To us, those who are rejected are the ones who truly follow with respect!
+         "Placement preparation for professionals and students involves mastering technical skills, 
+          enhancing soft skills,and understanding interview strategies and confidence with peace.
+          Maintain a peaceful mindset through stress management techniques, practice, and self-care. 
+          This balanced approach ensures readiness and confidence for successful job placements."
           </p>
           <Link to="/">
             <button className="mt-6 bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300">
